@@ -1,0 +1,7 @@
+a the sun did not shine.
+a it was too wet to play.
+a so we sat in the house
+a All that cold, cold, wet day.
+rem_last
+remove_first
+print_all
